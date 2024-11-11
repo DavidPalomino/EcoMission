@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EcoMission", "EcoMission\EcoMission.vcxproj", "{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}.Debug|x64.ActiveCfg = Debug|x64
+		{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}.Debug|x64.Build.0 = Debug|x64
+		{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}.Debug|x86.ActiveCfg = Debug|Win32
+		{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}.Debug|x86.Build.0 = Debug|Win32
+		{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}.Release|x64.ActiveCfg = Release|x64
+		{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}.Release|x64.Build.0 = Release|x64
+		{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}.Release|x86.ActiveCfg = Release|Win32
+		{05E42F9F-9C15-4F72-B15C-31ACA9E4FF66}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197B5E44-14BE-4140-9026-0B2EF06EB476}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Cristian\source\repos\EcoMission\EcoMission\Debug\EcoMission.vcxproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\EcoMission\EcoMission\Debug\EcoMission.EcoMission.resources
+C:\Users\Cristian\source\repos\EcoMission\EcoMission\Debug\EcoMission.vcxproj.GenerateResource.cache
+C:\Users\Cristian\Desktop\EcoMission\EcoMission\Debug\EcoMission.vcxproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\EcoMission\EcoMission\Debug\EcoMission.EcoMission.resources
+C:\Users\Cristian\Desktop\EcoMission\EcoMission\Debug\EcoMission.vcxproj.GenerateResource.cache
